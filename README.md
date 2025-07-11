@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/zomato.jpg" alt="Zomato Analytics Dashboard" width="600" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="zomato_analysis/docs/zomato.jpg" alt="Zomato Analytics Dashboard";"/>
 </p>
 
 # Zomato Sales Data Analytics - Complete Solution
@@ -29,24 +29,26 @@ This comprehensive analysis of Zomato's food delivery data provides actionable i
 **Key Skills**: SQL, Data Modeling, Business Intelligence
 
 ## 🏗️ Database Schema
-
+<p align="center">
+  <img src="zomato_analysis/docs/scema.jpg" alt="Zomato Analytics Dashboard";"/>
+</p>
 ### Entity-Relationship Diagram
 
 
 ### Table Details
-1. **customer** - 10,000+ records
+1. **customer** - 100+ records
    - `customer_id` (PK), `customer_name`, `reg_date`
 
-2. **restaurant** - 500+ records
+2. **restaurant** - 100+ records
    - `restaurant_id` (PK), `restaurant_name`, `city`, `opening_hours`
 
-3. **orders** - 50,000+ records
+3. **orders** - 500+ records
    - `order_id` (PK), foreign keys, `order_item`, `order_date`, `total_amount`
 
-4. **rider** - 200+ records
+4. **rider** - 150+ records
    - `rider_id` (PK), `rider_name`, `sign_up_date`
 
-5. **delivery** - 50,000+ records
+5. **delivery** - 500+ records
    - `delivery_id` (PK), foreign keys, `delivery_status`, `delivery_time`
 
 ## 🔍 Complete Task Solutions
