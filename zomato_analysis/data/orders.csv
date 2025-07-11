@@ -1,0 +1,548 @@
+order_id,customer_id,restaurant_id,order_item,order_date,order_time,order_status,total_amount
+658,11,15,Chicken Biryani,3/3/2023,23:59:48,Completed,411
+111,5,8,Masala Dosa,8/5/2023,23:59:48,Completed,200
+8481,17,58,Chicken Shawarma,3/8/2023,23:59:42,Completed,259
+4634,7,22,Samosa,11/28/2023,23:59:39,Completed,201
+8699,12,53,Burger,8/24/2023,23:59:38,Completed,252
+2031,15,27,Mutton Rogan Josh,3/5/2023,23:59:32,Completed,340
+2844,18,27,Paner Butter Masala,1/11/2023,23:59:15,Completed,317
+4074,1,29,Pasta Alfredo,9/4/2023,23:58:52,Completed,422
+3060,7,5,Paner Lababdar,12/31/2023,23:58:33,Completed,332
+8260,13,28,Masala Dosa,6/28/2023,23:58:17,Completed,529
+2359,22,42,Mutton Biryani,10/21/2023,23:58:07,Completed,263
+4928,1,14,Egg Curry,5/6/2023,23:58:06,Completed,304
+228,13,45,Prawn Masala,6/28/2023,23:58:05,Completed,266
+1325,18,46,Chole Bhature,9/10/2023,23:57:58,Completed,508
+6422,19,15,Chicken Shawarma,10/14/2023,23:57:56,Completed,309
+4938,9,37,Prawn Masala,4/14/2023,23:57:32,Completed,207
+3439,17,16,Masala Dosa,5/24/2023,23:57:32,Completed,324
+3939,6,20,Mutton Biryani,1/10/2023,23:57:30,Completed,298
+2416,5,56,Masala Dosa,1/23/2023,23:57:28,Completed,269
+7023,22,50,Paner Lababdar,7/7/2023,23:57:27,Completed,331
+5889,7,25,Paner Lababdar,8/4/2023,23:57:21,Completed,546
+8831,6,25,Mutton Biryani,3/3/2023,23:56:57,Completed,556
+4113,16,29,Prawn Masala,11/2/2023,23:56:56,Completed,210
+1111,17,51,Samosa,4/28/2023,23:56:51,Completed,259
+9301,10,56,Mutton Rogan Josh,12/10/2023,6:01:59,Completed,344
+9208,20,42,Prawn Masala,5/14/2023,6:01:54,Completed,283
+6239,16,51,Hyderabadi Biryani,3/1/2023,6:01:54,Completed,233
+639,16,37,Samosa,1/31/2023,6:01:27,Completed,231
+8823,4,61,Pasta Alfredo,11/13/2023,6:01:19,Completed,316
+1323,7,54,Masala Dosa,10/12/2023,6:01:16,Completed,296
+5140,18,40,Chicken Shawarma,8/23/2023,6:01:11,Completed,283
+9337,18,46,Mutton Rogan Josh,3/3/2023,6:01:07,Completed,300
+4687,7,42,Egg Curry,10/16/2023,6:01:03,Completed,269
+7902,2,56,Mutton Rogan Josh,1/21/2023,6:00:48,Completed,501
+5770,5,37,Dal Makhani,6/7/2023,6:00:47,Completed,290
+4344,18,41,Grilled Chicken Sandwich,6/12/2023,6:00:31,Completed,281
+673,18,54,Chole Bhature,2/16/2023,6:00:31,Completed,527
+4795,16,40,Pasta Alfredo,8/21/2023,6:00:12,Completed,271
+983,4,38,Paner Butter Masala,6/10/2023,6:00:01,Completed,337
+1245,18,46,Burger,12/26/2023,0:00:59,Completed,322
+5678,6,43,Chicken Tikka,3/26/2023,0:00:44,Completed,337
+3456,20,35,Chicken Shawarma,3/31/2023,0:00:40,Completed,337
+7890,17,52,Paner Lababdar,1/10/2023,0:00:33,Completed,249
+2345,7,35,Chicken Biryani,10/22/2023,0:00:33,Completed,526
+6789,6,42,Pasta Alfredo,6/1/2023,0:00:28,Completed,278
+1234,11,39,Pizza,9/1/2023,0:00:27,Completed,283
+9012,17,54,Mutton Rogan Josh,6/22/2023,0:00:25,Completed,274
+1501,67,25,Chicken Tikka Masala,12/23/2068,18:15:00,Completed,310
+1502,100,36,Butter Naan,1/25/2069,19:30:15,Completed,120
+1503,133,47,Raita,2/27/2069,20:45:30,Completed,60
+1504,166,58,Gulab Jamun,4/1/2069,21:00:45,Completed,90
+1505,199,69,Chicken Korma,5/4/2069,22:15:00,Completed,320
+1506,232,80,Aloo Gobi,6/6/2069,23:30:15,Completed,180
+1507,265,91,Butter Naan,7/9/2069,8:45:30,Completed,80
+1508,298,2,Chicken Tikka,8/11/2069,9:00:45,Completed,280
+1509,331,13,Veg Fried Rice,9/13/2069,10:15:00,Completed,190
+1510,364,24,Egg Curry,10/16/2069,11:30:15,Completed,210
+1511,397,35,Chicken Biryani,11/18/2069,12:45:30,Completed,320
+1512,30,46,Paneer Butter Masala,12/21/2069,13:00:45,Completed,270
+1513,63,57,Dal Tadka,1/23/2070,14:15:00,Completed,180
+1514,96,68,Samosa Chaat,2/25/2070,15:30:15,Completed,120
+1515,129,79,Garlic Naan,3/30/2070,16:45:30,Completed,90
+1516,162,90,Chicken Shawarma,5/2/2070,17:00:45,Completed,220
+1517,195,1,Mutton Biryani,6/4/2070,18:15:00,Completed,350
+1518,228,12,Aloo Paratha,7/7/2070,19:30:15,Completed,110
+1519,261,23,Chole Bhature,8/9/2070,20:45:30,Completed,160
+1520,294,34,Pasta Alfredo,9/11/2070,21:00:45,Completed,240
+1521,327,45,Grilled Sandwich,10/14/2070,22:15:00,Completed,180
+1522,360,56,Pizza Margherita,11/16/2070,23:30:15,Completed,290
+1523,393,67,Chicken Wings,12/19/2070,8:45:30,Completed,310
+1524,26,78,Fish Curry,1/21/2071,9:00:45,Completed,330
+1525,59,89,Gobi Manchurian,2/23/2071,10:15:00,Completed,200
+1526,92,3,Pav Bhaji,3/28/2071,11:30:15,Completed,150
+1527,125,14,Rasmalai,4/30/2071,12:45:30,Completed,90
+1528,158,25,Idli Sambar,6/2/2071,13:00:45,Completed,110
+1529,191,36,Dosa,7/5/2071,14:15:00,Completed,140
+1530,224,47,Upma,8/7/2071,15:30:15,Completed,100
+1531,257,58,Poha,9/9/2071,16:45:30,Completed,90
+1532,290,69,Bread Omelette,10/12/2071,17:00:45,Completed,70
+1533,323,80,Tea and Toast,11/14/2071,18:15:00,Completed,60
+1534,356,91,Coffee and Cookies,12/17/2071,19:30:15,Completed,80
+1535,389,2,Masala Chai,1/19/2072,20:45:30,Completed,50
+1536,22,13,Lassi,2/21/2072,21:00:45,Completed,60
+1537,55,24,Chicken Roll,3/25/2072,22:15:00,Completed,180
+1538,88,35,Egg Roll,4/27/2072,23:30:15,Completed,150
+1539,121,46,Veg Roll,5/30/2072,8:45:30,Completed,130
+1540,154,57,Momos,7/2/2072,9:00:45,Completed,160
+1541,187,68,Chow Mein,8/4/2072,10:15:00,Completed,200
+1542,220,79,Fried Rice,9/6/2072,11:30:15,Completed,190
+1543,253,90,Manchurian,10/9/2072,12:45:30,Completed,210
+1544,286,1,Noodles,11/11/2072,13:00:45,Completed,180
+1545,319,12,Soup,12/14/2072,14:15:00,Completed,120
+1546,352,23,Salad,1/16/2073,15:30:15,Completed,90
+1547,385,34,Ice Cream,2/18/2073,16:45:30,Completed,60
+1548,18,45,Cake,3/23/2073,17:00:45,Completed,120
+1549,51,56,Pastry,4/25/2073,18:15:00,Completed,80
+1550,84,67,Cookies,5/28/2073,19:30:15,Completed,50
+1551,117,78,Brownie,6/30/2073,20:45:30,Completed,70
+1552,150,89,Pancakes,8/2/2073,21:00:45,Completed,90
+1553,183,3,Waffles,9/4/2073,22:15:00,Completed,110
+1554,216,14,French Fries,10/7/2073,23:30:15,Completed,80
+1555,249,25,Onion Rings,11/9/2073,8:45:30,Completed,90
+1556,282,36,Nachos,12/12/2073,9:00:45,Completed,120
+1557,315,47,Burger,1/14/2074,10:15:00,Completed,150
+1558,348,58,Sandwich,2/16/2074,11:30:15,Completed,130
+1559,381,69,Hot Dog,3/21/2074,12:45:30,Completed,110
+1560,414,80,Pizza,4/23/2074,13:00:45,Completed,290
+1561,37,91,Taco,5/26/2074,14:15:00,Completed,180
+1562,70,2,Burrito,6/28/2074,15:30:15,Completed,220
+1563,103,13,Quesadilla,7/31/2074,16:45:30,Completed,200
+1564,136,24,Fajita,9/2/2074,17:00:45,Completed,240
+1565,169,35,Enchilada,10/5/2074,18:15:00,Completed,230
+1566,202,46,Tamale,11/7/2074,19:30:15,Completed,190
+1567,235,57,Empanada,12/10/2074,20:45:30,Completed,160
+1568,268,68,Arepa,1/12/2075,21:00:45,Completed,140
+1569,301,79,Ceviche,2/14/2075,22:15:00,Completed,210
+1570,334,90,Paella,3/19/2075,23:30:15,Completed,320
+1571,367,1,Risotto,4/21/2075,8:45:30,Completed,280
+1572,400,12,Lasagna,5/24/2075,9:00:45,Completed,300
+1573,33,23,Ravioli,6/26/2075,10:15:00,Completed,260
+1574,66,34,Spaghetti,7/29/2075,11:30:15,Completed,240
+1575,99,45,Fettuccine,8/31/2075,12:45:30,Completed,220
+1576,132,56,Penne,10/3/2075,13:00:45,Completed,200
+1577,165,67,Macaroni,11/5/2075,14:15:00,Completed,180
+1578,198,78,Fusilli,12/8/2075,15:30:15,Completed,160
+1579,231,89,Rigatoni,1/10/2076,16:45:30,Completed,140
+1580,264,3,Orzo,2/12/2076,17:00:45,Completed,120
+1581,297,14,Udon,3/16/2076,18:15:00,Completed,190
+1582,330,25,Ramen,4/18/2076,19:30:15,Completed,210
+1583,363,36,Soba,5/21/2076,20:45:30,Completed,180
+1584,396,47,Pad Thai,6/23/2076,21:00:45,Completed,220
+1585,29,58,Pho,7/26/2076,22:15:00,Completed,240
+1586,62,69,Bun Cha,8/28/2076,23:30:15,Completed,200
+1587,95,80,Banh Mi,9/30/2076,8:45:30,Completed,180
+1588,128,91,Spring Rolls,11/2/2076,9:00:45,Completed,160
+1589,161,2,Dumplings,12/5/2076,10:15:00,Completed,140
+1590,194,13,Wonton,1/7/2077,11:30:15,Completed,120
+1591,227,24,Hot Pot,2/9/2077,12:45:30,Completed,300
+1592,260,35,Sushi,3/14/2077,13:00:45,Completed,280
+1593,293,46,Sashimi,4/16/2077,14:15:00,Completed,260
+1594,326,57,Tempura,5/19/2077,15:30:15,Completed,240
+1595,359,68,Teriyaki,6/21/2077,16:45:30,Completed,220
+1596,392,79,Yakitori,7/24/2077,17:00:45,Completed,200
+1597,25,90,Ramen,8/26/2077,18:15:00,Completed,180
+1598,58,1,Udon,9/28/2077,19:30:15,Completed,160
+1599,91,12,Soba,10/31/2077,20:45:30,Completed,140
+1600,124,23,Donburi,12/3/2077,21:00:45,Completed,220
+1601,157,34,Okonomiyaki,1/5/2078,22:15:00,Completed,240
+1602,190,45,Takoyaki,2/7/2078,23:30:15,Completed,160
+1603,223,56,Onigiri,3/12/2078,8:45:30,Completed,120
+1604,256,67,Miso Soup,4/14/2078,9:00:45,Completed,80
+1605,289,78,Edamame,5/17/2078,10:15:00,Completed,60
+1606,322,89,Gyoza,6/19/2078,11:30:15,Completed,100
+1607,355,3,Chawanmushi,7/22/2078,12:45:30,Completed,140
+1608,388,14,Sukiyaki,8/24/2078,13:00:45,Completed,280
+1609,21,25,Shabu Shabu,9/26/2078,14:15:00,Completed,300
+1610,54,36,Kaiseki,10/29/2078,15:30:15,Completed,350
+1611,87,47,Bento,12/1/2078,16:45:30,Completed,200
+1612,120,58,Tonkatsu,1/3/2079,17:00:45,Completed,220
+1613,153,69,Yakiniku,2/5/2079,18:15:00,Completed,240
+1614,186,80,Shogayaki,3/10/2079,19:30:15,Completed,200
+1615,219,91,Oyakodon,4/12/2079,20:45:30,Completed,180
+1616,252,2,Katsudon,5/15/2079,21:00:45,Completed,220
+1617,285,13,Curry Rice,6/17/2079,22:15:00,Completed,160
+1618,318,24,Omurice,7/20/2079,23:30:15,Completed,180
+1619,351,35,Hayashi Rice,8/22/2079,8:45:30,Completed,200
+1620,384,46,Chazuke,9/24/2079,9:00:45,Completed,140
+1621,17,57,Domburi,10/27/2079,10:15:00,Completed,160
+1622,50,68,Gohan,11/29/2079,11:30:15,Completed,120
+1623,83,79,Meshi,1/1/2080,12:45:30,Completed,100
+1624,116,90,Kare Raisu,2/3/2080,13:00:45,Completed,140
+1625,149,1,Chahan,3/7/2080,14:15:00,Completed,160
+1626,182,12,Yakimeshi,4/9/2080,15:30:15,Completed,180
+1627,215,23,Okayu,5/12/2080,16:45:30,Completed,100
+1628,248,34,Zosui,6/14/2080,17:00:45,Completed,120
+1629,281,45,Nasi Goreng,7/17/2080,18:15:00,Completed,180
+1630,314,56,Mie Goreng,8/19/2080,19:30:15,Completed,160
+1631,347,67,Sate,9/21/2080,20:45:30,Completed,200
+1632,380,78,Rendang,10/24/2080,21:00:45,Completed,240
+1633,13,89,Gado Gado,11/26/2080,22:15:00,Completed,180
+1634,46,3,Nasi Padang,12/29/2080,23:30:15,Completed,220
+1635,79,14,Soto,1/31/2081,8:45:30,Completed,160
+1636,112,25,Bakso,3/5/2081,9:00:45,Completed,140
+1637,145,36,Martabak,4/7/2081,10:15:00,Completed,180
+1638,178,47,Pempek,5/10/2081,11:30:15,Completed,200
+1639,211,58,Lumpia,6/12/2081,12:45:30,Completed,160
+1640,244,69,Kwetiau,7/15/2081,13:00:45,Completed,180
+1641,277,80,Siomay,8/17/2081,14:15:00,Completed,140
+1642,310,91,Bakmi,9/19/2081,15:30:15,Completed,160
+1643,343,2,Nasi Uduk,10/22/2081,16:45:30,Completed,180
+1644,376,13,Nasi Kuning,11/24/2081,17:00:45,Completed,200
+1645,409,24,Ayam Goreng,12/27/2081,18:15:00,Completed,220
+1646,32,35,Bebek Goreng,1/29/2082,19:30:15,Completed,240
+1647,65,46,Ikan Bakar,3/3/2082,20:45:30,Completed,260
+1648,98,57,Udang Goreng,4/5/2082,21:00:45,Completed,280
+1649,131,68,Cumi Goreng,5/8/2082,22:15:00,Completed,240
+1650,164,79,Kerang Goreng,6/10/2082,23:30:15,Completed,200
+1651,197,90,Kepiting Goreng,7/13/2082,8:45:30,Completed,320
+1652,230,1,Tahu Goreng,8/15/2082,9:00:45,Completed,120
+1653,263,12,Tempe Goreng,9/17/2082,10:15:00,Completed,100
+1654,296,23,Perkedel,10/20/2082,11:30:15,Completed,80
+1655,329,34,Sayur Asem,11/22/2082,12:45:30,Completed,90
+1656,362,45,Sayur Lodeh,12/25/2082,13:00:45,Completed,100
+1657,395,56,Cap Cay,1/27/2083,14:15:00,Completed,120
+1658,28,67,Tumis Kangkung,3/1/2083,15:30:15,Completed,80
+1659,61,78,Sop Buntut,4/3/2083,16:45:30,Completed,180
+1660,94,89,Sop Ayam,5/6/2083,17:00:45,Completed,160
+1661,127,3,Sop Iga,6/8/2083,18:15:00,Completed,200
+1662,160,14,Sop Kambing,7/11/2083,19:30:15,Completed,220
+1663,193,25,Sop Konro,8/13/2083,20:45:30,Completed,240
+1664,226,36,Sop Saudara,9/15/2083,21:00:45,Completed,200
+1665,259,47,Sop Jagung,10/18/2083,22:15:00,Completed,160
+1666,292,58,Sop Tomat,11/20/2083,23:30:15,Completed,140
+1667,325,69,Sop Wortel,12/23/2083,8:45:30,Completed,120
+1668,358,80,Sop Kentang,1/25/2084,9:00:45,Completed,100
+1669,391,91,Sop Jamur,2/27/2084,10:15:00,Completed,140
+1670,24,2,Sop Kacang,3/31/2084,11:30:15,Completed,120
+1671,57,13,Sop Makaroni,5/3/2084,12:45:30,Completed,100
+1672,90,24,Sop Mie,6/5/2084,13:00:45,Completed,120
+1673,123,35,Sop Pasta,7/8/2084,14:15:00,Completed,140
+1674,156,46,Sop Telur,8/10/2084,15:30:15,Completed,100
+1675,189,57,Sop Tahu,9/12/2084,16:45:30,Completed,80
+1676,222,68,Sop Tempe,10/15/2084,17:00:45,Completed,60
+1677,255,79,Sop Udang,11/17/2084,18:15:00,Completed,180
+1678,288,90,Sop Cumi,12/20/2084,19:30:15,Completed,200
+1679,321,1,Sop Ikan,1/22/2085,20:45:30,Completed,160
+1680,354,12,Sop Kerang,2/24/2085,21:00:45,Completed,180
+1681,387,23,Sop Kepiting,3/29/2085,22:15:00,Completed,220
+1682,20,34,Sop Tiram,4/30/2085,23:30:15,Completed,240
+1683,53,45,Sop Remis,6/2/2085,8:45:30,Completed,200
+1684,86,56,Sop Rajungan,7/5/2085,9:00:45,Completed,180
+1685,119,67,Sop Lobster,8/7/2085,10:15:00,Completed,300
+1686,152,78,Sop Kepah,9/9/2085,11:30:15,Completed,160
+1687,185,89,Sop Simping,10/12/2085,12:45:30,Completed,140
+1688,218,3,Sop Kerang,11/14/2085,13:00:45,Completed,120
+1689,251,14,Sop Tiram,12/17/2085,14:15:00,Completed,160
+1690,284,25,Sop Remis,1/19/2086,15:30:15,Completed,180
+1691,317,36,Sop Rajungan,2/21/2086,16:45:30,Completed,200
+1692,350,47,Sop Lobster,3/26/2086,17:00:45,Completed,280
+1693,383,58,Sop Kepah,4/28/2086,18:15:00,Completed,160
+1694,16,69,Sop Simping,5/31/2086,19:30:15,Completed,140
+1695,49,80,Sop Kerang,7/3/2086,20:45:30,Completed,120
+1696,82,91,Sop Tiram,8/5/2086,21:00:45,Completed,160
+1697,115,2,Sop Remis,9/7/2086,22:15:00,Completed,180
+1698,148,13,Sop Rajungan,10/10/2086,23:30:15,Completed,200
+1699,181,24,Sop Lobster,11/12/2086,8:45:30,Completed,280
+1700,214,35,Sop Kepah,12/15/2086,9:00:45,Completed,160
+1701,247,46,Sop Simping,1/17/2087,10:15:00,Completed,140
+1702,280,57,Sop Kerang,2/19/2087,11:30:15,Completed,120
+1703,313,68,Sop Tiram,3/24/2087,12:45:30,Completed,160
+1704,346,79,Sop Remis,4/26/2087,13:00:45,Completed,180
+1705,379,90,Sop Rajungan,5/29/2087,14:15:00,Completed,200
+1706,12,1,Sop Lobster,7/1/2087,15:30:15,Completed,280
+1707,45,12,Sop Kepah,8/3/2087,16:45:30,Completed,160
+1708,78,23,Sop Simping,9/5/2087,17:00:45,Completed,140
+1709,111,34,Sop Kerang,10/8/2087,18:15:00,Completed,120
+1710,144,45,Sop Tiram,11/10/2087,19:30:15,Completed,160
+1711,177,56,Sop Remis,12/13/2087,20:45:30,Completed,180
+1712,210,67,Sop Rajungan,1/15/2088,21:00:45,Completed,200
+1713,243,78,Sop Lobster,2/17/2088,22:15:00,Completed,280
+1714,276,89,Sop Kepah,3/21/2088,23:30:15,Completed,160
+1715,309,3,Sop Simping,4/23/2088,8:45:30,Completed,140
+1716,342,14,Sop Kerang,5/26/2088,9:00:45,Completed,120
+1717,375,25,Sop Tiram,6/28/2088,10:15:00,Completed,160
+1718,408,36,Sop Remis,7/31/2088,11:30:15,Completed,180
+1719,31,47,Sop Rajungan,9/2/2088,12:45:30,Completed,200
+1720,64,58,Sop Lobster,10/5/2088,13:00:45,Completed,280
+1721,97,69,Sop Kepah,11/7/2088,14:15:00,Completed,160
+1722,130,80,Sop Simping,12/10/2088,15:30:15,Completed,140
+1723,163,91,Sop Kerang,1/12/2089,16:45:30,Completed,120
+1724,196,2,Sop Tiram,2/14/2089,17:00:45,Completed,160
+1725,229,13,Sop Remis,3/19/2089,18:15:00,Completed,180
+1726,262,24,Sop Rajungan,4/21/2089,19:30:15,Completed,200
+1727,295,35,Sop Lobster,5/24/2089,20:45:30,Completed,280
+1728,328,46,Sop Kepah,6/26/2089,21:00:45,Completed,160
+1729,361,57,Sop Simping,7/29/2089,22:15:00,Completed,140
+1730,394,68,Sop Kerang,8/31/2089,23:30:15,Completed,120
+1731,27,79,Sop Tiram,10/3/2089,8:45:30,Completed,160
+1732,60,90,Sop Remis,11/5/2089,9:00:45,Completed,180
+1733,93,1,Sop Rajungan,12/8/2089,10:15:00,Completed,200
+1734,126,12,Sop Lobster,1/10/2090,11:30:15,Completed,280
+1735,159,23,Sop Kepah,2/12/2090,12:45:30,Completed,160
+1736,192,34,Sop Simping,3/17/2090,13:00:45,Completed,140
+1737,225,45,Sop Kerang,4/19/2090,14:15:00,Completed,120
+1738,258,56,Sop Tiram,5/22/2090,15:30:15,Completed,160
+1739,291,67,Sop Remis,6/24/2090,16:45:30,Completed,180
+1740,324,78,Sop Rajungan,7/27/2090,17:00:45,Completed,200
+1741,357,89,Sop Lobster,8/29/2090,18:15:00,Completed,280
+1742,390,3,Sop Kepah,10/1/2090,19:30:15,Completed,160
+1743,23,14,Sop Simping,11/3/2090,20:45:30,Completed,140
+1744,56,25,Sop Kerang,12/6/2090,21:00:45,Completed,120
+1745,89,36,Sop Tiram,1/8/2091,22:15:00,Completed,160
+1746,122,47,Sop Remis,2/10/2091,23:30:15,Completed,180
+1747,155,58,Sop Rajungan,3/15/2091,8:45:30,Completed,200
+1748,188,69,Sop Lobster,4/17/2091,9:00:45,Completed,280
+1749,221,80,Sop Kepah,5/20/2091,10:15:00,Completed,160
+1750,254,91,Sop Simping,6/22/2091,11:30:15,Completed,140
+1751,287,2,Sop Kerang,7/25/2091,12:45:30,Completed,120
+1752,320,13,Sop Tiram,8/27/2091,13:00:45,Completed,160
+1753,353,24,Sop Remis,9/29/2091,14:15:00,Completed,180
+1754,386,35,Sop Rajungan,11/1/2091,15:30:15,Completed,200
+1755,19,46,Sop Lobster,12/4/2091,16:45:30,Completed,280
+1756,52,57,Sop Kepah,1/6/2092,17:00:45,Completed,160
+1757,85,68,Sop Simping,2/8/2092,18:15:00,Completed,140
+1758,118,79,Sop Kerang,3/12/2092,19:30:15,Completed,120
+1759,151,90,Sop Tiram,4/14/2092,20:45:30,Completed,160
+1760,184,1,Sop Remis,5/17/2092,21:00:45,Completed,180
+1761,217,12,Sop Rajungan,6/19/2092,22:15:00,Completed,200
+1762,250,23,Sop Lobster,7/22/2092,23:30:15,Completed,280
+1763,283,34,Sop Kepah,8/24/2092,8:45:30,Completed,160
+1764,316,45,Sop Simping,9/26/2092,9:00:45,Completed,140
+1765,349,56,Sop Kerang,10/29/2092,10:15:00,Completed,120
+1766,382,67,Sop Tiram,12/1/2092,11:30:15,Completed,160
+1767,15,78,Sop Remis,1/3/2093,12:45:30,Completed,180
+1768,48,89,Sop Rajungan,2/5/2093,13:00:45,Completed,200
+1769,81,3,Sop Lobster,3/10/2093,14:15:00,Completed,280
+1770,114,14,Sop Kepah,4/12/2093,15:30:15,Completed,160
+1771,147,25,Sop Simping,5/15/2093,16:45:30,Completed,140
+1772,180,36,Sop Kerang,6/17/2093,17:00:45,Completed,120
+1773,213,47,Sop Tiram,7/20/2093,18:15:00,Completed,160
+1774,246,58,Sop Remis,8/22/2093,19:30:15,Completed,180
+1775,279,69,Sop Rajungan,9/24/2093,20:45:30,Completed,200
+1776,312,80,Sop Lobster,10/27/2093,21:00:45,Completed,280
+1777,345,91,Sop Kepah,11/29/2093,22:15:00,Completed,160
+1778,378,2,Sop Simping,1/1/2094,23:30:15,Completed,140
+1779,411,13,Sop Kerang,2/3/2094,8:45:30,Completed,120
+1780,34,24,Sop Tiram,3/8/2094,9:00:45,Completed,160
+1781,67,35,Sop Remis,4/10/2094,10:15:00,Completed,180
+1782,100,46,Sop Rajungan,5/13/2094,11:30:15,Completed,200
+1783,133,57,Sop Lobster,6/15/2094,12:45:30,Completed,280
+1784,166,68,Sop Kepah,7/18/2094,13:00:45,Completed,160
+1785,199,79,Sop Simping,8/20/2094,14:15:00,Completed,140
+1786,232,90,Sop Kerang,9/22/2094,15:30:15,Completed,120
+1787,265,1,Sop Tiram,10/25/2094,16:45:30,Completed,160
+1788,298,12,Sop Remis,11/27/2094,17:00:45,Completed,180
+1789,331,23,Sop Rajungan,12/30/2094,18:15:00,Completed,200
+1790,364,34,Sop Lobster,2/1/2095,19:30:15,Completed,280
+1791,397,45,Sop Kepah,3/6/2095,20:45:30,Completed,160
+1792,30,56,Sop Simping,4/8/2095,21:00:45,Completed,140
+1793,63,67,Sop Kerang,5/11/2095,22:15:00,Completed,120
+1794,96,78,Sop Tiram,6/13/2095,23:30:15,Completed,160
+1795,129,89,Sop Remis,7/16/2095,8:45:30,Completed,180
+1796,162,3,Sop Rajungan,8/18/2095,9:00:45,Completed,200
+1797,195,14,Sop Lobster,9/20/2095,10:15:00,Completed,280
+1798,228,25,Sop Kepah,10/23/2095,11:30:15,Completed,160
+1799,261,36,Sop Simping,11/25/2095,12:45:30,Completed,140
+1800,294,47,Sop Kerang,12/28/2095,13:00:45,Completed,120
+1801,327,58,Sop Tiram,1/30/2096,14:15:00,Completed,160
+1802,360,69,Sop Remis,3/3/2096,15:30:15,Completed,180
+1803,393,80,Sop Rajungan,4/5/2096,16:45:30,Completed,200
+1804,26,91,Sop Lobster,5/8/2096,17:00:45,Completed,280
+1805,59,2,Sop Kepah,6/10/2096,18:15:00,Completed,160
+1806,92,13,Sop Simping,7/13/2096,19:30:15,Completed,140
+1807,125,24,Sop Kerang,8/15/2096,20:45:30,Completed,120
+1808,158,35,Sop Tiram,9/17/2096,21:00:45,Completed,160
+1809,191,36,Sop Remis,10/20/2096,22:15:00,Completed,180
+1810,224,47,Sop Rajungan,11/22/2096,23:30:15,Completed,200
+1811,257,58,Sop Lobster,12/25/2096,8:45:30,Completed,280
+1812,290,69,Sop Kepah,1/27/2097,9:00:45,Completed,160
+1813,323,80,Sop Simping,3/1/2097,10:15:00,Completed,140
+1814,356,91,Sop Kerang,4/3/2097,11:30:15,Completed,120
+1815,389,2,Sop Tiram,5/6/2097,12:45:30,Completed,160
+1816,22,13,Sop Remis,6/8/2097,13:00:45,Completed,180
+1817,55,24,Sop Rajungan,7/11/2097,14:15:00,Completed,200
+1818,88,35,Sop Lobster,8/13/2097,15:30:15,Completed,280
+1819,121,46,Sop Kepah,9/15/2097,16:45:30,Completed,160
+1820,154,57,Sop Simping,10/18/2097,17:00:45,Completed,140
+1821,187,68,Sop Kerang,11/20/2097,18:15:00,Completed,120
+1822,220,79,Sop Tiram,12/23/2097,19:30:15,Completed,160
+1823,253,90,Sop Remis,1/25/2098,20:45:30,Completed,180
+1824,286,1,Sop Rajungan,2/27/2098,21:00:45,Completed,200
+1825,319,12,Sop Lobster,3/31/2098,22:15:00,Completed,280
+1826,352,23,Sop Kepah,5/3/2098,23:30:15,Completed,160
+1827,385,34,Sop Simping,6/5/2098,8:45:30,Completed,140
+1828,18,45,Sop Kerang,7/8/2098,9:00:45,Completed,120
+1829,51,56,Sop Tiram,8/10/2098,10:15:00,Completed,160
+1830,84,67,Sop Remis,9/12/2098,11:30:15,Completed,180
+1831,117,78,Sop Rajungan,10/15/2098,12:45:30,Completed,200
+1832,150,89,Sop Lobster,11/17/2098,13:00:45,Completed,280
+1833,183,3,Sop Kepah,12/20/2098,14:15:00,Completed,160
+1834,216,14,Sop Simping,1/22/2099,15:30:15,Completed,140
+1835,249,25,Sop Kerang,2/24/2099,16:45:30,Completed,120
+1836,282,36,Sop Tiram,3/29/2099,17:00:45,Completed,160
+1837,315,47,Sop Remis,4/30/2099,18:15:00,Completed,180
+1838,348,58,Sop Rajungan,6/2/2099,19:30:15,Completed,200
+1839,381,69,Sop Lobster,7/5/2099,20:45:30,Completed,280
+1840,414,80,Sop Kepah,8/7/2099,21:00:45,Completed,160
+1841,37,91,Sop Simping,9/9/2099,22:15:00,Completed,140
+1842,70,2,Sop Kerang,10/12/2099,23:30:15,Completed,120
+1843,103,13,Sop Tiram,11/14/2099,8:45:30,Completed,160
+1844,136,24,Sop Remis,12/17/2099,9:00:45,Completed,180
+1845,169,35,Sop Rajungan,1/19/2100,10:15:00,Completed,200
+1846,202,46,Sop Lobster,2/21/2100,11:30:15,Completed,280
+1847,235,57,Sop Kepah,3/26/2100,12:45:30,Completed,160
+1848,268,68,Sop Simping,4/28/2100,13:00:45,Completed,140
+1849,301,79,Sop Kerang,5/31/2100,14:15:00,Completed,120
+1850,334,90,Sop Tiram,7/3/2100,15:30:15,Completed,160
+1851,367,1,Sop Remis,8/5/2100,16:45:30,Completed,180
+1852,400,12,Sop Rajungan,9/7/2100,17:00:45,Completed,200
+1853,33,23,Sop Lobster,10/10/2100,18:15:00,Completed,280
+1854,66,34,Sop Kepah,11/12/2100,19:30:15,Completed,160
+1855,99,45,Sop Simping,12/15/2100,20:45:30,Completed,140
+1856,132,56,Sop Kerang,1/17/2101,21:00:45,Completed,120
+1857,165,67,Sop Tiram,2/19/2101,22:15:00,Completed,160
+1858,198,78,Sop Remis,3/24/2101,23:30:15,Completed,180
+1859,231,89,Sop Rajungan,4/26/2101,8:45:30,Completed,200
+1860,264,3,Sop Lobster,5/29/2101,9:00:45,Completed,280
+1861,297,14,Sop Kepah,7/1/2101,10:15:00,Completed,160
+1862,330,25,Sop Simping,8/3/2101,11:30:15,Completed,140
+1863,363,36,Sop Kerang,9/5/2101,12:45:30,Completed,120
+1864,396,47,Sop Tiram,10/8/2101,13:00:45,Completed,160
+1865,29,58,Sop Remis,11/10/2101,14:15:00,Completed,180
+1866,62,69,Sop Rajungan,12/13/2101,15:30:15,Completed,200
+1867,95,80,Sop Lobster,1/15/2102,16:45:30,Completed,280
+1868,128,91,Sop Kepah,2/17/2102,17:00:45,Completed,160
+1869,161,2,Sop Simping,3/21/2102,18:15:00,Completed,140
+1870,194,13,Sop Kerang,4/23/2102,19:30:15,Completed,120
+1871,227,24,Sop Tiram,5/26/2102,20:45:30,Completed,160
+1872,260,35,Sop Remis,6/28/2102,21:00:45,Completed,180
+1873,293,46,Sop Rajungan,7/31/2102,22:15:00,Completed,200
+1874,326,57,Sop Lobster,9/2/2102,23:30:15,Completed,280
+1875,359,68,Sop Kepah,10/5/2102,8:45:30,Completed,160
+1876,392,79,Sop Simping,11/7/2102,9:00:45,Completed,140
+1877,25,90,Sop Kerang,12/10/2102,10:15:00,Completed,120
+1878,58,1,Sop Tiram,1/12/2103,11:30:15,Completed,160
+1879,91,12,Sop Remis,2/14/2103,12:45:30,Completed,180
+1880,124,23,Sop Rajungan,3/19/2103,13:00:45,Completed,200
+1881,157,34,Sop Lobster,4/21/2103,14:15:00,Completed,280
+1882,190,45,Sop Kepah,5/24/2103,15:30:15,Completed,160
+1883,223,56,Sop Simping,6/26/2103,16:45:30,Completed,140
+1884,256,67,Sop Kerang,7/29/2103,17:00:45,Completed,120
+1885,289,78,Sop Tiram,8/31/2103,18:15:00,Completed,160
+1886,322,89,Sop Remis,10/3/2103,19:30:15,Completed,180
+1887,355,3,Sop Rajungan,11/5/2103,20:45:30,Completed,200
+1888,388,14,Sop Lobster,12/8/2103,21:00:45,Completed,280
+1889,21,25,Sop Kepah,1/10/2104,22:15:00,Completed,160
+1890,54,36,Sop Simping,2/12/2104,23:30:15,Completed,140
+1891,87,47,Sop Kerang,3/16/2104,8:45:30,Completed,120
+1892,120,58,Sop Tiram,4/18/2104,9:00:45,Completed,160
+1893,153,69,Sop Remis,5/21/2104,10:15:00,Completed,180
+1894,186,80,Sop Rajungan,6/23/2104,11:30:15,Completed,200
+1895,219,91,Sop Lobster,7/26/2104,12:45:30,Completed,280
+1896,252,2,Sop Kepah,8/28/2104,13:00:45,Completed,160
+1897,285,13,Sop Simping,9/30/2104,14:15:00,Completed,140
+1898,318,24,Sop Kerang,11/2/2104,15:30:15,Completed,120
+1899,351,35,Sop Tiram,12/5/2104,16:45:30,Completed,160
+1900,384,46,Sop Remis,1/7/2105,17:00:45,Completed,180
+1901,17,57,Sop Rajungan,2/9/2105,18:15:00,Completed,200
+1902,50,68,Sop Lobster,3/14/2105,19:30:15,Completed,280
+1903,83,79,Sop Kepah,4/16/2105,20:45:30,Completed,160
+1904,116,90,Sop Simping,5/19/2105,21:00:45,Completed,140
+1905,149,1,Sop Kerang,6/21/2105,22:15:00,Completed,120
+1906,182,12,Sop Tiram,7/24/2105,23:30:15,Completed,160
+1907,215,13,Sop Remis,8/26/2105,8:45:30,Completed,180
+1908,248,24,Sop Rajungan,9/28/2105,9:00:45,Completed,200
+1909,281,35,Sop Lobster,10/31/2105,10:15:00,Completed,280
+1910,314,46,Sop Kepah,12/3/2105,11:30:15,Completed,160
+1911,347,57,Sop Simping,1/5/2106,12:45:30,Completed,140
+1912,380,68,Sop Kerang,2/7/2106,13:00:45,Completed,120
+1913,13,79,Sop Tiram,3/12/2106,14:15:00,Completed,160
+1914,46,90,Sop Remis,4/14/2106,15:30:15,Completed,180
+1915,79,1,Sop Rajungan,5/17/2106,16:45:30,Completed,200
+1916,112,12,Sop Lobster,6/19/2106,17:00:45,Completed,280
+1917,145,23,Sop Kepah,7/22/2106,18:15:00,Completed,160
+1918,178,34,Sop Simping,8/24/2106,19:30:15,Completed,140
+1919,211,45,Sop Kerang,9/26/2106,20:45:30,Completed,120
+1920,244,56,Sop Tiram,10/29/2106,21:00:45,Completed,160
+1921,277,67,Sop Remis,12/1/2106,22:15:00,Completed,180
+1922,310,78,Sop Rajungan,1/3/2107,23:30:15,Completed,200
+1923,343,89,Sop Lobster,2/5/2107,8:45:30,Completed,280
+1924,376,3,Sop Kepah,3/10/2107,9:00:45,Completed,160
+1925,409,14,Sop Simping,4/12/2107,10:15:00,Completed,140
+1926,32,25,Sop Kerang,5/15/2107,11:30:15,Completed,120
+1927,65,36,Sop Tiram,6/17/2107,12:45:30,Completed,160
+1928,98,47,Sop Remis,7/20/2107,13:00:45,Completed,180
+1929,131,58,Sop Rajungan,8/22/2107,14:15:00,Completed,200
+1930,164,69,Sop Lobster,9/24/2107,15:30:15,Completed,280
+1931,197,80,Sop Kepah,10/27/2107,16:45:30,Completed,160
+1932,230,91,Sop Simping,11/29/2107,17:00:45,Completed,140
+1933,263,2,Sop Kerang,1/1/2108,18:15:00,Completed,120
+1934,296,13,Sop Tiram,2/3/2108,19:30:15,Completed,160
+1935,329,24,Sop Remis,3/7/2108,20:45:30,Completed,180
+1936,362,35,Sop Rajungan,4/9/2108,21:00:45,Completed,200
+1937,395,46,Sop Lobster,5/12/2108,22:15:00,Completed,280
+1938,28,57,Sop Kepah,6/14/2108,23:30:15,Completed,160
+1939,61,68,Sop Simping,7/17/2108,8:45:30,Completed,140
+1940,94,79,Sop Kerang,8/19/2108,9:00:45,Completed,120
+1941,127,90,Sop Tiram,9/21/2108,10:15:00,Completed,160
+1942,160,1,Sop Remis,10/24/2108,11:30:15,Completed,180
+1943,193,12,Sop Rajungan,11/26/2108,12:45:30,Completed,200
+1944,226,23,Sop Lobster,12/29/2108,13:00:45,Completed,280
+1945,259,34,Sop Kepah,1/31/2109,14:15:00,Completed,160
+1946,292,45,Sop Simping,3/5/2109,15:30:15,Completed,140
+1947,325,56,Sop Kerang,4/7/2109,16:45:30,Completed,120
+1948,358,67,Sop Tiram,5/10/2109,17:00:45,Completed,160
+1949,391,78,Sop Remis,6/12/2109,18:15:00,Completed,180
+1950,24,89,Sop Rajungan,7/15/2109,19:30:15,Completed,200
+1951,57,3,Sop Lobster,8/17/2109,20:45:30,Completed,280
+1952,90,14,Sop Kepah,9/19/2109,21:00:45,Completed,160
+1953,123,25,Sop Simping,10/22/2109,22:15:00,Completed,140
+1954,156,36,Sop Kerang,11/24/2109,23:30:15,Completed,120
+1955,189,47,Sop Tiram,12/27/2109,8:45:30,Completed,160
+1956,222,58,Sop Remis,1/29/2110,9:00:45,Completed,180
+1957,255,69,Sop Rajungan,3/3/2110,10:15:00,Completed,200
+1958,288,80,Sop Lobster,4/5/2110,11:30:15,Completed,280
+1959,321,91,Sop Kepah,5/8/2110,12:45:30,Completed,160
+1960,354,2,Sop Simping,6/10/2110,13:00:45,Completed,140
+1961,387,13,Sop Kerang,7/13/2110,14:15:00,Completed,120
+1962,20,24,Sop Tiram,8/15/2110,15:30:15,Completed,160
+1963,53,35,Sop Remis,9/17/2110,16:45:30,Completed,180
+1964,86,46,Sop Rajungan,10/20/2110,17:00:45,Completed,200
+1965,119,57,Sop Lobster,11/22/2110,18:15:00,Completed,280
+1966,152,68,Sop Kepah,12/25/2110,19:30:15,Completed,160
+1967,185,79,Sop Simping,1/27/2111,20:45:30,Completed,140
+1968,218,90,Sop Kerang,3/1/2111,21:00:45,Completed,120
+1969,251,1,Sop Tiram,4/3/2111,22:15:00,Completed,160
+1970,284,12,Sop Remis,5/6/2111,23:30:15,Completed,180
+1971,317,23,Sop Rajungan,6/8/2111,8:45:30,Completed,200
+1972,350,34,Sop Lobster,7/11/2111,9:00:45,Completed,280
+1973,383,45,Sop Kepah,8/13/2111,10:15:00,Completed,160
+1974,16,56,Sop Simping,9/15/2111,11:30:15,Completed,140
+1975,49,67,Sop Kerang,10/18/2111,12:45:30,Completed,120
+1976,82,78,Sop Tiram,11/20/2111,13:00:45,Completed,160
+1977,115,89,Sop Remis,12/23/2111,14:15:00,Completed,180
+1978,148,3,Sop Rajungan,1/25/2112,15:30:15,Completed,200
+1979,181,14,Sop Lobster,2/27/2112,16:45:30,Completed,280
+1980,214,25,Sop Kepah,3/30/2112,17:00:45,Completed,160
+1981,247,36,Sop Simping,5/2/2112,18:15:00,Completed,140
+1982,280,47,Sop Kerang,6/4/2112,19:30:15,Completed,120
+1983,313,58,Sop Tiram,7/7/2112,20:45:30,Completed,160
+1984,346,69,Sop Remis,8/9/2112,21:00:45,Completed,180
+1985,379,80,Sop Rajungan,9/11/2112,22:15:00,Completed,200
+1986,12,91,Sop Lobster,10/14/2112,23:30:15,Completed,280
+1987,45,2,Sop Kepah,11/16/2112,8:45:30,Completed,160
+1988,78,13,Sop Simping,12/19/2112,9:00:45,Completed,140
+1989,111,24,Sop Kerang,1/21/2113,10:15:00,Completed,120
+1990,144,35,Sop Tiram,2/23/2113,11:30:15,Completed,160
+1991,177,46,Sop Remis,3/28/2113,12:45:30,Completed,180
+1992,210,57,Sop Rajungan,4/30/2113,13:00:45,Completed,200
+1993,243,68,Sop Lobster,6/2/2113,14:15:00,Completed,280
+1994,276,79,Sop Kepah,7/5/2113,15:30:15,Completed,160
+1995,309,90,Sop Simping,8/7/2113,16:45:30,Completed,140
+1996,342,1,Sop Kerang,9/9/2113,17:00:45,Completed,120
+1997,375,12,Sop Tiram,10/12/2113,18:15:00,Completed,160
+1998,408,23,Sop Remis,11/14/2113,19:30:15,Completed,180
+1999,31,34,Sop Rajungan,12/17/2113,20:45:30,Completed,200
+2000,64,45,Sop Lobster,1/19/2114,21:00:45,Completed,280
